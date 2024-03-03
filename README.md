@@ -1,11 +1,11 @@
 ### Hi there 👋, I'm Yasin Güngör.
 
-In 2013, I started coding with Visual Basic 6.0. </br>
-In 2019, I decided to learn a more valid language and my choice was Python. </br>
-In 2023, I started the web design and coding department and continue to study in the frontend field.
+In 2013, I started coding with **Visual Basic 6.0**. </br>
+In 2019, I decided to learn a more valid language and my choice was **Python**. </br>
+In 2023, I started the **Web Design and Coding** department and continue to study in the frontend field.
 
-#### 💻 I’m currently learning HTML, CSS and Javascript.
-#### 🤔 What's next? React, Node.js, PHP.
+#### 💻 I’m currently learning **HTML**, **CSS** and **Javascript**.
+#### 🤔 What's next? **React**, **Node.js**, **PHP**.
 
 <!--
 **ysngungor/ysngungor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
